@@ -4,6 +4,7 @@
 ¡Bienvenido a mi perfil! Soy un apasionado desarrollador full stack de Python con sede en Chile. Estoy en medio de una emocionante reconversión laboral hacia el mundo de la programación, y me especializo en tecnologías web.
 
 ## Habilidades
+- 📈 Análisis de Datos
 - 💻 Desarrollo full stack con Python
 - 🌐 Framework Django
 - 🎨 HTML, CSS y JavaScript
@@ -27,6 +28,7 @@ Estoy entusiasmado por empezar nuevos proyectos y aprender más en el proceso. M
 Welcome to my profile! I'm a passionate full stack Python developer based in Chile. I'm in the midst of an exciting career transition into the programming world, specializing in web technologies.
 
 ## Skills
+- 📈 Data Analyst
 - 💻 Full stack development with Python
 - 🌐 Django framework
 - 🎨 HTML, CSS, and JavaScript
